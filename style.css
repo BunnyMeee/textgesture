@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    font-family: fantasy;
+    
+
+}
+.note {
+    font-size: 15px;
+    color: darkslategray;
+    font-family: cursive;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: honeydew;
+    background-color: darkgreen;
+    font-family: serif;
+    font-weight: 600;
+
+}
+canvas {
+    border: 5px, solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    
+
+}
+body{
+    background-image: linear-gradient(to left, pink 0%, lightblue 30%, linen 50%, lightgreen 80%, lightpink 100%);
+}
